@@ -1,6 +1,6 @@
 # All Restaurants in Trenton-Princeton (Metro), New Jersey, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 92 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `173783` |
 | Location | Trenton-Princeton, NJ |
 | Category | Restaurants |
-| Full dataset size | 769 records |
-| Free sample size | 25 records (3.25%) |
-| Last export | 2026-03-31T16:38:33.121284+00:00 |
+| Full dataset size | 923 records |
+| Free sample size | 92 records (9.97%) |
+| Last export | 2026-04-14T17:31:03.041179+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-trenton-princeton-metro-new-jersey-us-sample-173783/releases/download/sample-latest/beamstation_173783_restaurants-us-trentonprincetonnj_SAMPLE_DIST.csv) |
 
 ## What is in this sample
