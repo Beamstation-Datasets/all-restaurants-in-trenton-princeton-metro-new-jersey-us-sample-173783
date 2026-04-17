@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22111c0d-56c9-482f-8cbb-3b0fcaed6b32",
+  "export_job_id": "814718fe-b672-4e31-98a4-2cf4c970d596",
   "id_short": 173783,
-  "published_at": "2026-04-11T07:04:08Z",
+  "published_at": "2026-04-17T07:42:09Z",
   "repo_name": "all-restaurants-in-trenton-princeton-metro-new-jersey-us-sample-173783",
   "sample_asset_name": "beamstation_173783_restaurants-us-trentonprincetonnj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/173783/beamstation_173783_restaurants-us-trentonprincetonnj_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "613fb3eb597baad4f005830705cad3fd2afcd5dd7e2b94763e9f095a557439ae",
-  "sample_size_bytes": 113647,
-  "total_records": 769
+  "sample_records": 92,
+  "sample_sha256": "b2690e82e005405858bf7b1991a270df99ba8d81890984c192ae744c6e462e3a",
+  "sample_size_bytes": 350963,
+  "total_records": 923
 }
